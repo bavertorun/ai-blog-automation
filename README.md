@@ -1,5 +1,6 @@
-
-## Install `ai-blog-automation` with npm
+# AI Blog Automation
+A nodejs automation that generates blog content using the ChatGPT API and then shares it on the medium
+## Install
 
 ```bash
   git clone https://github.com/bavertorun/ai-blog-automation.git
